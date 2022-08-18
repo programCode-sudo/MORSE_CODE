@@ -64,7 +64,7 @@ MORSE_CODE={
     '...---...':'SOS'
 }
 
-TEST='...---...' #Escriba su codigo morse aqui
+TEST='...---...' #Escriba su codigo morse aqui y ejecute la .py
 word=''
 TEST=TEST.strip()    
 TEST=TEST.split('   ')
