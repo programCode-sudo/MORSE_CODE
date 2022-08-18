@@ -64,7 +64,7 @@ MORSE_CODE={
     '...---...':'SOS'
 }
 
-TEST='...---...' 
+TEST='...---...' //Escriba su codigo morse aqui
 word=''
 TEST=TEST.strip()    
 TEST=TEST.split('   ')
